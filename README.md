@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack
 
 *   **Language:** Python 3.x
-*   **Engine:** [Pygame](https://pygame.org)
+*   **Engine:** [Pygame Ce](https://pygame.org)
 *   **Data Storage:** JSON with basic XOR encryption to protect save files.
 
 ## 🚀 Getting Started
@@ -22,7 +22,7 @@
 1.  **Ensure Python is installed.**
 2.  **Install Pygame dependency:**
     ```bash
-    pip install pygame
+    pip install pygame-ce
     ```
 3.  **Clone the repository:**
     ```bash
